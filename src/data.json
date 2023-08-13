@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "item": "Espresso - 30ml",
+        "price": 200,
+        "details": ""
+    },
+    {
+        "id": "2",
+        "item": "Duplo - 60ml",
+        "price": 350,
+        "details": "Extraído sob pressão, o Espresso tem acentuadas características do café."
+    },
+    {
+        "id": "3",
+        "item": "Capuccino Brasileiro",
+        "price": 850,
+        "details": "Espresso, uma mistura de chocolate e canela em pó com leite vaporizado."
+    },
+    {
+        "id": "4",
+        "item": "Au Lait",
+        "price": 700,
+        "details": "Uma dose de espresso com bastante leite."
+    },
+    {
+        "id": "5",
+        "item": "Americano",
+        "price": 250,
+        "details": "Uma dose de espresso e uma quantidade generosa de água na temperatura ideal."
+    },
+    {
+        "id": "6",
+        "item": "Mocha",
+        "price": 1050,
+        "details": "Uma dose de calda de chocolate, leite vaporizado, espresso duplo e Chantilly."
+    },
+    {
+        "id": "7",
+        "item": "Mocha Caramelo",
+        "price": 1150,
+        "details": "Uma dose de calda de caramelo, leite vaporizado, espresso duplo e Chantilly."
+    },
+    {
+        "id": "8",
+        "item": "Latté Macchiato",
+        "price": 700,
+        "details": "Espresso duplo com leite vaporizado e espuma de leite."
+    },
+    {
+        "id": "9",
+        "item": "Macchiato Caramelo",
+        "price": 1050,
+        "details": "Espresso duplo com baunilha, calda de caramelo, leite vaporizado e espuma de leite."
+    }
+]
