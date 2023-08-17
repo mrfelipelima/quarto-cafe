@@ -1,8 +1,8 @@
 
 export default function Footer() {
     return(
-        <footer className="w-full py-8 flex flex-col justify-center items-center gap-10">
-            <div className="flex justify-center items-center gap-12">
+        <footer className="w-full py-8 flex flex-col justify-center items-center gap-10 text-center">
+            <div className="flex justify-center items-center">
                 <div id="address" className="text-white">
                     <span className="font-bold">Quarto Café</span>
                     <p>Dentro da ALBUQUERQUE barbearia</p>

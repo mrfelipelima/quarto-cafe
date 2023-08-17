@@ -7,10 +7,10 @@ import { priceFormatter } from "@/utils/formatter";
 export default function Home() {
   return (
     <>
-      <main className="flex min-h-screen flex-col items-center p-6 lg:p-24 gap-4">
-        <Header />
+      <Header />
+      <main className="flex min-h-screen flex-col items-center p-6 lg:px-20 gap-4">
         <div className="w-full">
-          <h3 className="text-xl">Bebidas quentes</h3>
+          <h3 className="text-xl text-center font-semibold">Bebidas quentes</h3>
           <table className="w-full border-separate border-spacing-x-0 border-spacing-y-2 mt-6">
             <tbody>
               {cardapio.map(item => {
