@@ -1,0 +1,13 @@
+{
+    "name": "Cardápio Quarto Café",
+    "short_name": "Quarto Café",
+    "description": "Fique por dentro dos produtos do Quarto Café",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "375x375",
+            "type": "image/png"
+        }
+    ]
+}
